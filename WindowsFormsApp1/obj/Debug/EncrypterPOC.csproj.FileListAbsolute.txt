@@ -1,0 +1,11 @@
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.AssemblyReference.cache
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.SuggestedBindingRedirects.cache
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\RansomwarePOC.Form1.resources
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.GenerateResource.cache
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.CoreCompileInputs.cache
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\xoteh\Desktop\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
